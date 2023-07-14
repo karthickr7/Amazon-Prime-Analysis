@@ -4,7 +4,8 @@ Amazon Prime Video is a popular streaming service offered by Amazon, providing s
   Amazon Prime is another one of the most popular media and video streaming platforms. They have close to 10000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Amazon Prime, along with details such as - cast, directors, ratings, release year, duration
 
 # Approach:
-  1) Data Collection and Preparation: Gather relevant data related to Amazon Prime Video, such as content details (genres, ratings, release years), user engagement metrics (views, ratings, reviews), and user behavior data.
+  1) Data Collection and Preparation:
+     Gather relevant data related to Amazon Prime Video, such as content details (genres, ratings, release years), user engagement metrics (views, ratings, reviews), and user behavior data.
 Ensure the data is in a structured format, such as CSV or Excel, suitable for import into Tableau.
   2) Connect Data to Tableau:
 Open Tableau and connect to the dataset by selecting the appropriate data source option (e.g., CSV, Excel, or a database).
@@ -19,5 +20,5 @@ Analyse the following
     c) Top 10 genres
     d) Total shows by country
     e) Shows by release year and type
-4) Export as packaged workbook
-5) Publish the reports: Once the reports are complete, publish them to tableau server, where users can access them via web.
+  4) Export as packaged workbook
+  5) Publish the reports: Once the reports are complete, publish them to tableau server, where users can access them via web.
